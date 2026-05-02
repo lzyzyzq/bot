@@ -69,4 +69,5 @@ return [
             // 'QQBot\Plugin\ExamplePlugin',
         ],
     ],
+'push_secret' => '伪主动网页访问密码', 
 ];
