@@ -1,0 +1,15 @@
+#这些是受支持的融资模式平台
+
+github: #替换为最多4个github赞助商启用的用户名，例如[user1，user2]
+patreon: #替换为单个patreon用户名
+open_collective: #替换为单个开放集合用户名
+ko_fi: #替换为单个Ko-fi用户名
+tidelift: #替换为一个tidelift平台名/包名，例如npm/babel
+community_bridge: #替换为单个社区桥项目名称，例如cloud-foundry
+liberapay: #替换为一个liberapay用户名
+issuehunt: #替换为单个issuehunt用户名
+lfx_crowdfunding: #替换为单个lfx众筹项目名称，例如cloud-foundry
+polar: #替换为单个polar用户名
+buy_me_a_coffee: #替换为一个简单的Buy Me a Coffee用户名
+thanks_dev: #替换为一个thanks.dev用户名
+自定义:#替换为最多4个自定义赞助网址，例如['link1 '，' link2']
